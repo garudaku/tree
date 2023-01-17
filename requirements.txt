@@ -4,4 +4,4 @@ scikit-learn
 streamlit
 pip
 warnings
-matplotlib
+matplotlib==3.5.2
