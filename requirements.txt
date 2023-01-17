@@ -4,3 +4,9 @@ scikit-learn
 streamlit
 functions-framework
 pip
+Tabs
+home
+predict
+visualise
+matplotlib
+warnings
