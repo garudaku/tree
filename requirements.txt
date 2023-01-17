@@ -5,3 +5,4 @@ streamlit
 functions-framework
 pip
 warnings
+matplotlib
