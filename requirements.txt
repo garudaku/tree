@@ -4,6 +4,5 @@ scikit-learn
 streamlit
 functions-framework
 pip
-Tabs
 matplotlib
 warnings
