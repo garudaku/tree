@@ -2,6 +2,6 @@ numpy
 pandas
 scikit-learn
 streamlit
-pip
+pip==22.3.1
 warnings
 matplotlib==3.5.2
