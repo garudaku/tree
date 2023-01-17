@@ -3,6 +3,6 @@ pandas
 scikit-learn
 streamlit
 functions-framework
-pip
+pip==22.3.1
 warnings
 matplotlib
